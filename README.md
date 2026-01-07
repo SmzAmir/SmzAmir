@@ -46,14 +46,6 @@ Beyond engineering, I am a **Subject Matter Expert** and **Educator**, currently
 
 ---
 
-## 📊 GitHub Metrics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=SmzAmir&show_icons=true&theme=tokyonight" alt="Amir's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmzAmir&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Reach Out
 - **LinkedIn:** [Linkedin.com/in/samiezadeh/](https://www.linkedin.com/in/samiezadeh/)
 - **Email:** [samiezadehamir@gmail.com](mailto:samiezadehamir@gmail.com)
