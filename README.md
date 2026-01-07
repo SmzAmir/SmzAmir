@@ -55,8 +55,8 @@ Beyond engineering, I am a **Subject Matter Expert** and **Educator**, currently
 ---
 
 ## 📫 Reach Out
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email:** [amir@example.com](mailto:amir@example.com)
+- **LinkedIn:** [Linkedin.com/in/samiezadeh/](https://www.linkedin.com/in/samiezadeh/)
+- **Email:** [samiezadehamir@gmail.com](mailto:samiezadehamir@gmail.com)
 - **Current Focus:** Scaling LLM agents for enterprise-level sales intelligence.
 
 ---
